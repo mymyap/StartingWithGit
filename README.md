@@ -32,16 +32,18 @@ author: my
 description: blub
 
 ```
-minima is a Blog - theme 
+minima is a Blog-style theme 
 
 posts will be in:
 _posts\YYYY-MM-DD-title-words-connected-with-hyphen.md
 --> the index.md will list these posts as links
 
-each post needs to contain this as header (=frontmatter)
+each post needs to contain this as a header (=frontmatter)
+
+```
 ---
 title: "this is a title"
 date: 2024-11-13
 ---
-
+```
 
