@@ -10,10 +10,10 @@ https://skills.github.com/
 
 
 ### git
-commit: "save" to local clone of repo
-push: "save" to the hosted (original) repo (aka remote repo)
-pull: check for, download and merge updated data from remote repo to local repo
-pull request: merge a branch into another
+* commit: "save" to local clone of repo
+* push: "save" to the hosted (original) repo (aka remote repo)
+* pull: check for, download and merge updated data from remote repo to local repo
+* pull request: merge a branch into another
 
 ### Pages (website)
 enable in settings-> pages -> Build and Deployment
