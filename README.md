@@ -47,3 +47,24 @@ date: 2024-11-13
 ---
 ```
 
+### command line git
+
+to commit file:
+```
+git commit -a -m "Adding hello from the codespace!"
+```
+-a: all files
+-m: message in quotation marks
+
+to push the commit:
+```
+git push
+```
+
+
+Your code has been pushed to your repository!
+
+
+
+
+
